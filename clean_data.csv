@@ -1,0 +1,8 @@
+id,name,age,salary,city,joining_date
+1,Arun,25,30000.0,Chennai,2023-01-10
+2,Priya,30,45000.0,Chennai,2023-02-15
+3,Rahul,30,62500.0,Bangalore,2023-03-20
+4,Divya,28,75000.0,Chennai,2023-04-12
+5,Karthik,35,90000.0,Mumbai,2023-05-18
+6,Meena,30,50000.0,Chennai,2023-06-22
+7,Suresh,40,900000.0,Chennai,2023-07-25
